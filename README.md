@@ -26,5 +26,3 @@ Welcome to my GitHub profile. I'm a software developer passionate about coding a
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/YourLinkedIn)
-- [Twitter](https://twitter.com/YourTwitter)
-- [Personal Website](https://yourwebsite.com)
