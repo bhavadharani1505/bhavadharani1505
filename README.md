@@ -25,4 +25,4 @@ Welcome to my GitHub profile. I'm a software developer passionate about coding a
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/YourLinkedIn)
+- [LinkedIn](https://www.linkedin.com/in/bhavadharani-m-a27233284)
