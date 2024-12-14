@@ -24,8 +24,6 @@ Welcome to my GitHub profile. I'm a software developer passionate about coding a
 ![bhavadharani1505's Stats](https://github-readme-stats.vercel.app/api?username=bhavadharani1505&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![bhavadharani1505's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavadharani1505&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-![image](https://github.com/user-attachments/assets/f94b11fe-8a49-4d59-9042-a4511c76d136)
-
 ##  📈 GitHub Graph
 
 ## 🔗 Connect with Me
