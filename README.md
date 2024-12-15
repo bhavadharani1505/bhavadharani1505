@@ -1,4 +1,4 @@
-![bhavadharani](https://github.com/bhavadharani1505/bhavadharani1505/blob/main/Bhavadharani%20M%20B.Tech%20CSE.jpg?raw=true)
+![bhavadharani]()
 # Hi there, I'm Bhavadharani M! 👋
 
 Welcome to my GitHub profile. I'm a software developer passionate about coding and open-source contributions. Below you'll find some information about me, my skills, and what I'm currently working on.
