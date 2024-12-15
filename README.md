@@ -11,7 +11,7 @@ Welcome to my GitHub profile. I'm a software developer passionate about coding a
 - 💬 Ask me about programming Languages.
 - 📫 How to reach me: bhavadharani1505@gmail.com.
 - ⚡ Fun fact: "Why do programmers prefer dark mode? Because light attracts bugs."
-- "Many coders love contributing to open-source projects, not just for fun but to leave their mark on the world—even if it's just a small function."
+ "Many coders love contributing to open-source projects, not just for fun but to leave their mark on the world—even if it's just a small function."
 
 ## 🔗 Connect with Me
 
